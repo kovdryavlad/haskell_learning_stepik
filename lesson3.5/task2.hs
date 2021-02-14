@@ -1,0 +1,4 @@
+-- GHCi> evenOnly [1..10]
+-- [2,4,6,8,10]
+-- GHCi> evenOnly ['a'..'z']
+-- "bdfhjlnprtvxz"
